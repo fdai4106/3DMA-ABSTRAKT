@@ -1,4 +1,4 @@
-Name, Link und Lizenz f?r JEDE Textur eintragen!
+Name, Link und Lizenz für JEDE Textur eintragen!
 
 
 1. ConcreteNew0050_1_S.jpg - http://www.textures.com/download/concretenew0050/72623 - Lizenz ??
@@ -10,5 +10,4 @@ Name, Link und Lizenz f?r JEDE Textur eintragen!
 7. FabricPlain0008_S - http://www.textures.com/download/fabricplain0008/3120 - Lizenz ??
 8. texture_2_by_jakezdaniel-d1gjyef - http://jakezdaniel.deviantart.com/art/Texture-2-88271079 - Lizenz ??
 9. MetalScratches0039_1_M - http://www.textures.com/download/metalscratches0039/3346 - Lizenz ??
-10.Ziffernblatt_Kienzle_fertig - http://4.bp.blogspot.com/-DQNDs9pP4Ds/VQFOklqJqUI/AAAAAAAADrc/0dpVK4q2DHk/s1600/Ziffernblatt_Kienzle_fertig.jpg
-\ No newline at end of file
+10.Ziffernblatt_Kienzle_fertig - http://4.bp.blogspot.com/-DQNDs9pP4Ds/VQFOklqJqUI/AAAAAAAADrc/0dpVK4q2DHk/s1600/Ziffernblatt_Kienzle_fertig.jpg - Lizenz ??
