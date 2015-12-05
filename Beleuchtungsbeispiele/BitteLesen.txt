@@ -2,5 +2,7 @@ Abgabe der Einzelbilder im E-Learning: https://elearning.hs-fulda.de/ai/mod/assi
 
 Ein Bild pro Shot mit finaler Beleuchtung. Im Notfall ohne Unschärfe?
 
+Bild zu Shot06 ist mit aktueller Beleuchtung. Ändert ihr ja vielleicht noch.
+
 Vorschläge: 	Immer den mittleren Frame nehmen (Frame 60 von einer Animation mit 120 Frames).
 		Mindestens 1000 Samples. Shot01 braucht ziemlich sicher noch mehr.
